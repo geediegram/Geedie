@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geedie
-- 👀 I’m interested in design
-- 🌱 I’m currently learning to be a UI/UX designer 
+- 👀 I’m interested in solving problems
+- 🌱 I’m currently learning to be a Software Engineer
 - 💞️ I’m looking to collaborate on a whole lot of stuffs 
 - 📫 How to reach me geediegramgu@gmail.com
 
